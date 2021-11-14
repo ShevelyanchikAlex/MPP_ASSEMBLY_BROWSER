@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>AssemblyBrowserCore</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="obj" />
+      <Folder Include="obj\Debug\net5.0" />
+    </ItemGroup>
+
+</Project>
